@@ -1,0 +1,8 @@
+# Telegram Bot Framework
+aiogram==3.3.0
+
+# OpenAI Client для работы с OpenRouter
+openai==1.12.0
+
+# Загрузка переменных окружения из .env
+python-dotenv==1.0.0
